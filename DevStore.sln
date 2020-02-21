@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Domain", "DevStore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Infra", "DevStore.Infra\DevStore.Infra.csproj", "{403E122F-9E50-4642-83F5-BB2E8FBCC714}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Api", "DevStore.Api\DevStore.Api.csproj", "{01B9BED3-AF5D-46D8-9538-E2C079E00077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{403E122F-9E50-4642-83F5-BB2E8FBCC714}.Release|x64.Build.0 = Release|Any CPU
 		{403E122F-9E50-4642-83F5-BB2E8FBCC714}.Release|x86.ActiveCfg = Release|Any CPU
 		{403E122F-9E50-4642-83F5-BB2E8FBCC714}.Release|x86.Build.0 = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|x64.Build.0 = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Debug|x86.Build.0 = Debug|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|x64.ActiveCfg = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|x64.Build.0 = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|x86.ActiveCfg = Release|Any CPU
+		{01B9BED3-AF5D-46D8-9538-E2C079E00077}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
